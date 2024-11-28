@@ -1,0 +1,17 @@
+{
+    "expo": {
+      "name": "BarberNote",
+      "slug": "barbernote",
+      "platforms": ["ios", "android"],
+      "sdkVersion": "48.0.0", 
+      "ios": {
+        "supportsTablet": true
+      },
+      "android": {
+        "jsEngine": "hermes", 
+          "foregroundImage": "./assets/images/adaptive-icon.png",
+          "backgroundColor": "#ffffff"
+        }
+      }
+    }
+  
